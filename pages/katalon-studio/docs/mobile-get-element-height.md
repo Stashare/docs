@@ -56,7 +56,7 @@ Mobile.tap(findTestObject('Application/App/android.widget.TextView-Activity'), 1
 
 Mobile.tap(findTestObject('Application/App/Activity/android.widget.TextView-Custom Dialog'), 10)
 
-'Drag and drop a button into another frame'
+'get Element Height'
 Mobile.getElementHeight(findTestObject('Application/App/Activity/android.widget.Button'), 10)
 
 'Close application on current selected android\'s device'
